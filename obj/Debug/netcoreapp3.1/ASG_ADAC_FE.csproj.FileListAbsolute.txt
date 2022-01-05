@@ -167,3 +167,4 @@ D:\2 - Abu Dhabi Port\Front-End\ASG_ADAC_FE\obj\Debug\netcoreapp3.1\ASG_ADAC_FE.
 D:\2 - Abu Dhabi Port\Front-End\ASG_ADAC_FE\obj\Debug\netcoreapp3.1\ASG_ADAC_FE.genruntimeconfig.cache
 D:\2 - Abu Dhabi Port\Front-End\ASG_ADAC_FE\obj\Debug\netcoreapp3.1\ASG_ADAC_FE.csproj.AssemblyReference.cache
 D:\2 - Abu Dhabi Port\Front-End\ASG_ADAC_FE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\2 - Abu Dhabi Port\Front-End\ASG_ADAC_FE\obj\Debug\netcoreapp3.1\ASG_ADAC_FE.csproj.CopyComplete
